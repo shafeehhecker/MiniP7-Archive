@@ -1,4 +1,4 @@
-# Mini-P7 — CPM Scheduler  ·  Phase 2
+# Mini-P7 — CPM Scheduler  
 
 A desktop Critical Path Method (CPM) scheduler built with Python + PySide6.
 
