@@ -3,7 +3,7 @@
 NOTE:This project is no longer in active maintaence and hence archived
 
 A Critical Path Method (CPM) scheduler with **two interfaces over one engine**:
-a scriptable command line (Typer + Rich) and a PySide6 desktop GUI.
+a scriptable command line (Typer + Rich) and a PySide6 desktop GUI... 
 
 ---
 
