@@ -1,6 +1,7 @@
 # Mini-P7 — CPM Scheduler -Archive 
 
-NOTE:This project is no longer in active maintaence and hence thereby archived
+NOTE:This project is no longer in active maintaence and hence thereby archived.
+NEW VERSION OF MINI P7 IS PINNED IN PROFILE
 
 A Critical Path Method (CPM) scheduler with **two interfaces over one engine**:
 a scriptable command line (Typer + Rich) and a PySide6 desktop GUI.CLI included in stak
